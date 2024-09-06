@@ -21,7 +21,7 @@
 
 Sea $\sum^{\infty} a_n$ una serie y $(S_N)_{n\in \N}$ la sucesion de sumas parciales $$S_N = \sum^N a_n$$
 
-Entonces $(S_N)_{n\in \N}$ converge $\leftrightarrow$  $(S_N)_{n\in \N}$ es de Cauchy
+Entonces $(S_N)_{n\in \N}$ converge $\leftrightarrow (S_N)_{n\in \N}$ es de Cauchy
 
 $\leftrightarrow$ $\forall \epsilon > 0$, existe $n_0(\epsilon)$ tal que si $N,M > n_0(\epsilon)$ entonces
 
