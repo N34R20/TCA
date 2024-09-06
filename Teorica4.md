@@ -53,7 +53,7 @@ Supongamos que \sum^
 
 ### Series de terminos Positivos
 
-- **obs**: Si an $\leq 0 \forall n$, entonces $\sum a_n$ converge $\leftrightarrow$ la sucesion de sumas parciales es acotado (pues la sucesion de sumas parciales es una sucesion creciente pues los $a_n$ son $\leq 0$)
+- **obs**: Si $a_n \geq 0 \forall n$, entonces $\sum a_n$ converge $\leftrightarrow$ la sucesion de sumas parciales es acotado (pues la sucesion de sumas parciales es una sucesion creciente pues los $a_n$ son $\geq 0$)
 
 ### Criterio de Comparacion
 
