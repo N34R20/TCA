@@ -46,5 +46,20 @@ Entonces concluimos que $(\frac{1}{n})_{n \in \mathbb{N}}$ es una sucesion funda
     Tambien lo son
 
 Sea $\mathcal{S} = \{(a_n)_{n \in \mathbb{N}}\}$ tal que $(a_n)_{n \in \mathbb{N}}$ es una sucesion fundamental.
+
 Osea $\mathcal{S}$ es el conjunto de todas las sucesiones fundamentales racionales.
+
 Podemos definir una relacion de equivalencia $\sim$ de la siguiente manera
+
+$(a_n)_{n \in \mathbb{N}} \sim (b_n)_{n \in \mathbb{N}}$ si, y solo si, $lim_{n \rightarrow \infty}(a_n - b_n) = 0$, si, y solo si, $\forall \epsilon > 0, \exist n_0(\epsilon)$ tal que $|a_n - b_n|<\epsilon$ si $n > n_0$
+
+**ejemplo:**
+
+$(\frac{1}{n})_{n \in \mathbb{N}} \sim (0)_{n \in \mathbb{N}}$
+
+**Definicion:**
+$\mathbb{R}$ es el conjunto de sucesiones fundamentales identifiando sucesiones equivalentes.
+
+(En lenguaje de conjuntos $\mathbb{R} = \frac{\mathcal{S}}{\sim}$)
+
+Las operaciones $+$ y $*$ en $\mathbb{R}$, se definen a partir de $+$ y $*$ en $\mathcal{S}$
