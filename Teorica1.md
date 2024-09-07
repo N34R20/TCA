@@ -35,9 +35,7 @@ Entonces concluimos que $(\frac{1}{n})_{n \in \mathbb{N}}$ es una sucesion funda
 **demostracion:** Sea $(a_n)_{n \in \mathbb{N}}$ una sucesion fundamental
 
 
-
-
-- **proposicion:** si tomamos $(a_n)_{n \in \mathbb{N}}$ y $(b_n)_{n \in \mathbb{N}}$ dos sucesion fundamentales entonces;
+- **proposicion:** si tomamos $(a_n)_{n \in \mathbb{N}}$  y  $(b_n)_{n \in \mathbb{N}}$ dos sucesiones fundamentales entonces;
     
     - $(a_n + b_n)_{n \in \mathbb{N}}$ 
     - $(a_n - b_n)_{n \in \mathbb{N}}$ 
