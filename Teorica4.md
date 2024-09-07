@@ -34,7 +34,7 @@ $$|a_1 + ... + a_N - a_1 - ... - a_M| < \epsilon$$
 
 Notese que $a_1 + ... + a_N = S_N$ y que $- a_1 - ... - a_M = S_M$
 
-$$= |a_{M+1} + a_{M+2}| + .. + a_N| < \epsilon$$
+$$= |a_{M+1} + a_{M+2} + .. + a_N| < \epsilon$$
 
 (Criterio necesario y suficiente sobre las colas de la serie)
 
